@@ -1,5 +1,5 @@
-# CSS-Projects
-<P>Here I made 2 project with using CSS only</P>
+# CSS-Project-Amazon-Homepage
+<P>Here I made Amazon website's homepage with using CSS only</P>
 <br>
 <uL>
   <li>Amazon Homepage</li>
